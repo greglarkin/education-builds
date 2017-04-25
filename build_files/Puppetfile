@@ -19,7 +19,7 @@ moduledir './modules/'
 
 mod 'bootstrap',
   :git => 'https://github.com/greglarkin/pltraining-bootstrap',
-  :ref => 'ciab-home-page'
+  :ref => 'ciab-nat-networking'
 
 mod 'localrepo',
   :git => 'https://github.com/puppetlabs/pltraining-localrepo'
